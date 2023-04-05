@@ -12,3 +12,6 @@
 * Limit angle: 180°
 * Gear material: Metal gear
 * The Servos require a separate 5 V power supply rated at 2 amps
+
+## Assembly of mechanical structure
+The kit comes without instructions. A very good video to support assemble can be found at
