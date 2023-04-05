@@ -1,4 +1,4 @@
-# 6_Degree_Freedom_Robot
+# 6 Degrees of Freedom Robot Arm
 
 * The power system consists of 6 servo motors
 * All bracket fittings are made of 2mm thick aluminum plate
