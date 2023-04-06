@@ -44,6 +44,10 @@ Selecting "1" starts a single Arm movement from Home position to Position 1, and
 Similarly selecting "1" through "8" will start a single Arm movement to posiitons 2 through 5-level-4 Positions.
 To start another another sequence requires resetting the stop execute function. This is done by depressing the ST/RPT button.
 
+## Electronic System Components
+
+<img alt="electronics System" src="images/electronics.jpg">
+
 ## Joint Angle Display
 
 <img alt="Display" src="images/Display.JPG ">
