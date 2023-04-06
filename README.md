@@ -22,4 +22,4 @@ An important feature of the code is a method to reduce the speed that the arm tr
 The method involves creating a function that moves the arm from the initial position to the final position in 1 degree increments or decrements. This eliminates the large interia that would result in the arm moving between positions at maximum speed resulting in stress on the metal gears.
 
 ## IR Control
-
+<img alt="Image of the IR Remote" src="images/IR_Remote.jpg">
