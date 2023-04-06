@@ -51,6 +51,6 @@ The Joint angles are identified 1 through 6. Angles for Joints 1 through 5 are i
 ## Joint Fine Adjustment - 6 Trim Potentiometeres
 The angles for each of the joints can be set using the 6 trim pots. The wiper voltages of the trim pots are fed to 6 A/D converter inputs. Under normal operation, in the loop, this function is commented out. When using this feature the normal operation of the looping code is commented out.
 
-## Schematic Diagram
+#### Schematic Diagram
 
 <img alt="Circuit Schematic" src="images/Robot Arm IR LCD Schematic.jpg">
