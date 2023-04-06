@@ -43,4 +43,5 @@ Similarly selecting "1" through "8" will start a single Arm movement to posiiton
 To start another another sequence requires resetting the stop execute function. This is done by depressing the ST/RPT button.
 
 ## Display
-<img alt="Display" src="images/Display Scaled 3.jpg ">
+
+<img alt="Display" src="images/Display.JPG ">
