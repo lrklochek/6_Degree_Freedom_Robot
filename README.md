@@ -35,3 +35,9 @@ The method involves creating a function that moves the arm from the initial posi
   * **6** starts a Home to Position 5 level 2 to Home sequence
   * **7** starts a Home to Position 5 level 3 to Home sequence
   * **8** starts a Home to Position 5 level 4 to Home sequence
+
+The IR control allows selecting 9 different Robot Arm operations. 
+Selecting "0" start 1 complete 4 block tower building operations.
+Selecting "1" starts a single Arm movement from Home position to Position 1, and then back to Home.
+Similarly selecting "1" through "8" will start a single Arm movement to posiitons 2 through 5-level-4 Positions.
+To start another another sequence requires resetting the stop execute function. This is done by depressing the ST/RPT button.
