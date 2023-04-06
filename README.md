@@ -50,4 +50,4 @@ The Joint angles are identified 1 through 6. Angles for Joints 1 through 5 are i
 
 ## Schematic Diagram
 
-<img alt="Circuit Schematic" src="images/Robot Arm LCD Schematic.jpg">
+<img alt="Circuit Schematic" src="images/Robot Arm IR LCD Schematic.jpg">
