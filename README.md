@@ -42,6 +42,12 @@ Selecting "1" starts a single Arm movement from Home position to Position 1, and
 Similarly selecting "1" through "8" will start a single Arm movement to posiitons 2 through 5-level-4 Positions.
 To start another another sequence requires resetting the stop execute function. This is done by depressing the ST/RPT button.
 
-## Display
+## Joint Angle Display
 
 <img alt="Display" src="images/Display.JPG ">
+
+The Joint angles are identified 1 through 6. Angles for Joints 1 through 5 are in degrees (0 to 180) while the end effector Joint 6 is either O for open or C for Closed. Joint 5 and Joint 1 angles are both located at row/column 0/0 and will override each other. Thses angles are updated at the beginning of the joint travel and the end of joint travel.
+
+## Schematic Diagram
+
+<img alt="Circuit Schematic" src="images/IR_Remote.jpg">
