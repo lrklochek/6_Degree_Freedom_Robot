@@ -1,5 +1,7 @@
 # 6 Degrees of Freedom Robot Arm
 
+<img alt="Robot System" src="images/Robot System.JPG ">
+
 * The power system consists of 6 servo motors
 * All bracket fittings are made of 2mm thick aluminum plate
 * Imported cup bearings are used at the steering joints
