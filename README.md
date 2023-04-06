@@ -23,6 +23,7 @@ The method involves creating a function that moves the arm from the initial posi
 
 ## IR Control
 <img alt="Image of the IR Remote" src="images/IR_Remote.jpg">
+
   * **Red Power Button** – sets arm to Home position
   * **ST/RPT** Resets all stop execute functions
   * **0** starts a complete tower build sequence
