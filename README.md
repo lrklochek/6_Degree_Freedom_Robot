@@ -45,6 +45,13 @@ Similarly selecting "1" through "8" will start a single Arm movement to posiiton
 To start another another sequence requires resetting the stop execute function. This is done by depressing the ST/RPT button.
 
 ## Electronic System Components
+Shown on the photo are:
+
+* Arduino Nano mounted on KeeYees Nano I/O Expansion Board Extension Shield
+* Trim Pot board
+* i2CLCD1602 - 2x16 character display using i2C communication to Nano
+* Sevo routing board
+* Not shown is the IR Receiver
 
 <img alt="electronics System" src="images/electronics.jpg">
 
