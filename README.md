@@ -62,7 +62,7 @@ Shown on the photo are:
 
 The Joint angles are identified 1 through 6. Angles for Joints 1 through 5 are in degrees (0 to 180) while the end effector Joint 6 is either O for open or C for Closed. Joint 5 and Joint 1 angles are both located at row/column 0/0 and will override each other. Thses angles are updated at the beginning of the joint travel and the end of joint travel.
 
-## Joint Fine Adjustment - 6 Trim Potentiometeres
+## Joint Fine Adjustment - 6 Trim Potentiometers
 The angles for each of the joints can be set using the 6 trim pots. The wiper voltages of the trim pots are fed to 6 A/D converter inputs. To enable pot setting joint angles, press the EQ button on the IR remote. To disable this operation press ST/RPT on the IR remote.
 
 #### Schematic Diagram
