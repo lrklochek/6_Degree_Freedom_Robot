@@ -66,4 +66,4 @@ The angles for each of the joints can be set using the 6 trim pots. The wiper vo
 
 #### Schematic Diagram
 
-<img alt="Circuit Schematic" src="images/Robot Arm IR LCD Schematic.jpg">
+<img alt="Circuit Schematic" src="images/Robot System Schematic rev 2.jpg">
