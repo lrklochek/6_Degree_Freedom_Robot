@@ -28,7 +28,8 @@ The method involves creating a function that moves the arm from the initial posi
 
   * **Red Power Button** – sets arm to Home position
   * **ST/RPT** Resets all stop execute functions
-  * **EQ** Enables fine setting of Joint angles using trim potentiomenters
+  * **Func/Stop** Enables fine setting of Joint angles using trim potentiomenters
+  * **EQ** Enables Lissajous Like Arm Motion
   * **0** starts a complete tower build sequence
   * **1** starts a Home to Position 1 to Home sequence
   * **2** starts a Home to Position 2 to Home sequence
@@ -64,6 +65,9 @@ The Joint angles are identified 1 through 6. Angles for Joints 1 through 5 are i
 
 ## Joint Fine Adjustment - 6 Trim Potentiometers
 The angles for each of the joints can be set using the 6 trim pots. The wiper voltages of the trim pots are fed to 6 A/D converter inputs. To enable pot setting joint angles, press the EQ button on the IR remote. To disable this operation press ST/RPT on the IR remote.
+
+## Lissajous Like Arm Motion
+The arm Joints 1 and 4 have sine waves generating the arm motion to display Lissajous like motion. The default setting has sine waves of equal amplitide and frequency with Joint 4 phase shifted 90 degress.
 
 #### Schematic Diagram
 
