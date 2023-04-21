@@ -1,5 +1,5 @@
 # 6 Degrees of Freedom Robot Arm
-## Video of Robot Arm: https://drive.google.com/file/d/1UtMpbR4FUZoUzIkUZrUbm7v6mGIB_OD8/view?usp=share_link 
+## Video of Robot Arm: https://drive.google.com/file/d/1UtMpbR4FUZoUzIkUZrUbm7v6mGIB_OD8/view?usp=share_link
 ### Please enable sound while viewing.
 <img alt="Robot System" src="images/Robot System.jpg">
 
