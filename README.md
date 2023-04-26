@@ -1,5 +1,5 @@
 # 6 Degrees of Freedom Robot Arm
-## Video of Robot Arm: https://drive.google.com/file/d/1vHn5FYFvt7uxkha3hYUpLbaY_r6lqrCW/view?usp=share_link
+## Video of Robot Arm: https://youtu.be/2zVjGslPVg8
 ### Please enable sound while viewing.
 <img alt="Robot System" src="images/Robot System.jpg">
 
@@ -31,6 +31,7 @@ The method involves creating a function that moves the arm from the initial posi
   * **ST/RPT** Resets all stop execute functions
   * **Func/Stop** Enables fine setting of Joint angles using trim potentiomenters
   * **EQ** Enables Lissajous Like Arm Motion
+  * **Pause** Enables Horizontal and Vertical Scanning
   * **0** starts a complete tower build sequence
   * **1** starts a Home to Position 1 to Home sequence
   * **2** starts a Home to Position 2 to Home sequence
@@ -41,10 +42,16 @@ The method involves creating a function that moves the arm from the initial posi
   * **7** starts a Home to Position 5 level 3 to Home sequence
   * **8** starts a Home to Position 5 level 4 to Home sequence
 
-The IR control allows selecting 9 different Robot Arm operations. 
-Selecting "0" start 1 complete 4 block tower building operations.
+The IR control allows selecting different Robot Arm operations. 
+
+Selecting "0" start 1 complete 4 block tower building pick and place operation.
 Selecting "1" starts a single Arm movement from Home position to Position 1, and then back to Home.
 Similarly selecting "1" through "8" will start a single Arm movement to posiitons 2 through 5-level-4 Positions.
+
+The EQ button enables Lissajous motion of the robot arm. The arm can execute circular, elliptical, figure 8, and slant line Lissajous like motion
+
+The Pause button enables a sweeping motion left/right and right/left incrementing vertically after each lateral sweep
+
 To start another another sequence requires resetting the stop execute function. This is done by depressing the ST/RPT button.
 
 ## Electronic System Components
